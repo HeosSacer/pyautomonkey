@@ -2,6 +2,6 @@
 
 # pyautomonkey
 
-[![Get Support at https://discord.gg/](https://img.shields.io/badge/join-discord-blue.svg)](https://discord.gg/)
+[![Get Support at https://discord.gg/5MRJaTf](https://img.shields.io/badge/join-discord-blue.svg)](https://discord.gg/5MRJaTf)
 
 This handy framework will help you to automate all GUI-applications with python!
