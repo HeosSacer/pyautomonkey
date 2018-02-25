@@ -1,4 +1,4 @@
-<img align="right" width="636" height="174" title="monkey logo" src="https://raw.githubusercontent.com/HeosSacer/pyautomonkey/master/logo.PNG" />
+<img align="right" width="509" height="140" title="monkey logo" src="https://raw.githubusercontent.com/HeosSacer/pyautomonkey/master/logo.PNG" />
 
 
 [![Get Support at https://discord.gg/5MRJaTf](https://img.shields.io/badge/join-discord-blue.svg)](https://discord.gg/5MRJaTf)
