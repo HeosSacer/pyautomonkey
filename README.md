@@ -1,4 +1,4 @@
-<img align="right" width="120" height="120" title="monkey logo" src="https://raw.githubusercontent.com/HeosSacer/pyautomonkey/master/logo.PNG" />
+<img align="right" width="636" height="174" title="monkey logo" src="https://raw.githubusercontent.com/HeosSacer/pyautomonkey/master/logo.PNG" />
 
 # pyautomonkey
 
