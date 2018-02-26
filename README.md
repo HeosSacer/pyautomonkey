@@ -33,6 +33,6 @@ auto.click_on_template(loaded_template)
 
 Check out the *retro_clicker.py* example for a more complex one!
 
-#Credits
+# Credits
 Go and try Desktopmagic for python! Extremly fast library to capture your screen!
 Logo by https://www.designevo.com/, check out their stuff!
