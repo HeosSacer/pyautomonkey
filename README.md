@@ -16,7 +16,7 @@ This monkey will only work on windows machines, but on demand, maybe on others..
 
 You need to install:
 ```
-pip install Desktopmagic,numpy,opencv-python,Pillow,pywin32
+pip install Desktopmagic numpy opencv-python Pillow pywin32
 ```        
 
 # Example
